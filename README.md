@@ -1,13 +1,15 @@
-Expense Tracker
-Project Overview
+# Expense Tracker
+# Project Overview
 The Expense Tracker is a web application designed to help individuals or businesses monitor and manage their expenses. This tool provides a comprehensive understanding of where money is being spent each month, offering valuable insights for better financial planning and control.
 
-Features
-User and Admin Management
+# Features
+# User and Admin Management
 Admin User: An admin user is created with appropriate privileges to manage and oversee the expense tracking system.
-Expense Model
+
+# Expense Model
 Expense Model: A detailed expense model is set up to capture all necessary information related to expenses, such as date, category, amount, and description.
-User Interface
+
+# User Interface
 Base Template: A base template is created to ensure a consistent look and feel across the application.
 Expense Form Styling: The expense form is styled for better user experience and ease of use.
 Edit and Delete Functionalities: Users can edit and delete their expenses as needed, ensuring flexibility and accuracy in tracking.
